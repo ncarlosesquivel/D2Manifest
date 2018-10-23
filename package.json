@@ -1,0 +1,19 @@
+{
+  "name": "d2manifest",
+  "version": "1.0.0",
+  "description": "Destiny 2 processed item data from the manifest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
+    "sqlite3": "^4.0.2",
+    "unzip": "^0.1.11"
+  }
+}
